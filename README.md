@@ -1,1 +1,1 @@
-# gitops-terraform-azure-example
+# GitOps
